@@ -1,16 +1,19 @@
-## Hi there 👋
+🌟 Hi there, I’m Your Nitin 👋
+🚀 About Me
+🎓 Student | 💻 Developer | 🌱 Lifelong Learner
 
-<!--
-**nitin4591/nitin4591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: Your Project/Tech Focus
 
-Here are some ideas to get you started:
+🌱 Learning: Tech Stack (e.g., AI, Cloud, Web Dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in: Field/Passion (e.g., Open Source, Security, Automation)
+
+⚡ Fun fact: Something unique about you
+
+🛠️ Tech Stack
+💻 Languages: Python, JavaScript, C++, Java
+🖼️ Frontend: React, TailwindCSS, HTML5, CSS3
+⚙️ Backend: Node.js, Express, Django, Flask
+☁️ Cloud & DevOps: GitHub Actions, Docker, Azure, AWS
+🛢️ Databases: MySQL, MongoDB, PostgreSQL
+📚 Other Tools: Git, VS Code, Postman, Linux
