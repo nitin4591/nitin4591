@@ -1,0 +1,30 @@
+name: Update Starred Repos
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:      # allow manual trigger
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate starred repos list
+        uses: varunsridharan/action-github-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          type: "stars"
+          max: 10
+          readme_path: "README.md"
+          marker_start: "<!--START_SECTION:stars-->"
+          marker_end: "<!--END_SECTION:stars-->"
+      
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update starred repositories list"
+          git push
