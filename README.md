@@ -17,3 +17,8 @@
 ☁️ Cloud & DevOps: GitHub Actions, Docker, Azure, AWS
 🛢️ Databases: MySQL, MongoDB, PostgreSQL
 📚 Other Tools: Git, VS Code, Postman, Linux
+## 📌 My Repo Watchlist  
+
+- [octocat/Hello-World](https://github.com/octocat/Hello-World) – A simple repo to get started  
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) – GitHub profile stats generator  
+- [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats) – GitHub streak stats tracker  
