@@ -22,3 +22,8 @@
 - [octocat/Hello-World](https://github.com/octocat/Hello-World) – A simple repo to get started  
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) – GitHub profile stats generator  
 - [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats) – GitHub streak stats tracker  
+## My Repo Watchlist  
+
+- [octocat/Hello-World](https://github.com/octocat/Hello-World) – A classic starter repo  
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) – GitHub profile stats generator  
+- [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats) – Track your GitHub streaks  
